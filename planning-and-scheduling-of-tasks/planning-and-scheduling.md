@@ -19,6 +19,8 @@ In order to facilitate the next stage of the meeting, we set the deadline as 18 
 
 #### Enze Peng
 
+Peng is assigned the task of implementing enemies in the game, as well as the function of implementing character upgrades. The latter has a deadline of the 24th.
+
 * link:
 
 <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/17>
@@ -31,6 +33,8 @@ In order to facilitate the next stage of the meeting, we set the deadline as 18 
   ![image](uploads/5a969b65c71646e6a6a5c74ac6d8be59/image.png)
 
 #### Sijie Jack Fan
+
+Fan is assigned the task of implementing movement and currency in the game. The deadline is September 18.
 
 * link: 
 
@@ -45,6 +49,8 @@ In order to facilitate the next stage of the meeting, we set the deadline as 18 
 
   ##### **<span dir="">Xuan Ngo</span>**
 
+Ngos were assigned the task of implementing the Maze/Map/Level and the weapon system. The deadline is September 18.
+
 * link:
 
   <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/21>
@@ -52,9 +58,11 @@ In order to facilitate the next stage of the meeting, we set the deadline as 18 
   <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/22>
 
   ![image](uploads/ed5c66891c3f2a2c686cb90c26795376/image.png)
-![image](uploads/139e074796951916a0ca6ef7b0678bd2/image.png)
+  ![image](uploads/139e074796951916a0ca6ef7b0678bd2/image.png)
 
 #### Qiuyu Chen
+
+Chen is assigned the task of implementing the Inventory System, as well as the Chest. The deadline is September 18.
 
 * link:
 
