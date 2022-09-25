@@ -13,6 +13,7 @@ https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/4
 
 In the planning stage, we discussed the game functions that needed to be completed and assigned these functions to the team members in the form of different tasks after getting a unified opinion.
 
+In order to facilitate the next stage of the meeting, we set the deadline as 18 (we have provided additional time for projects that are expected to require more work, and the deadline is 24th).
 
 # Schedule the work
 
