@@ -11,6 +11,8 @@ https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/4
 
 ![image](uploads/9d6dc067c7ace0d40dadcc3a8f77896f/image.png)
 
+In the planning stage, we discussed the game functions that needed to be completed and assigned these functions to the team members in the form of different tasks after getting a unified opinion.
+
 
 # Schedule the work
 
