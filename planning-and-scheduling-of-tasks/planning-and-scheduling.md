@@ -15,6 +15,36 @@ In the planning stage, we discussed the game functions that needed to be complet
 
 In order to facilitate the next stage of the meeting, we set the deadline as 18 (we have provided additional time for projects that are expected to require more work, and the deadline is 24th).
 
+Based on the requirements, we have summarized 8 game features that must be completed:
+- [x] Movement
+- [x] Maze/Map/Level
+- [x] Enemies
+- [x] Inventory system
+- [x] Weapon
+- [x] Currency
+- [x] Upgrades
+- [x] Chest
+
+Here is the flow chart of our planning:
+
+```mermaid
+graph TB
+
+  SubGraph1 --> SubGraph1Flow
+  subgraph "8 necessary features"
+  SubGraph1Flow(Consensus)
+  SubGraph1Flow --> 4_Given_Features
+  SubGraph1Flow --> 4_Additional_Features
+  end
+
+  subgraph "Plan Flow"
+  Node1[Define project objective] --> SubGraph1[Discuss the necessary features]
+  SubGraph1 --> Node2[Discuss other optimization details]
+  Node2[Discuss other optimization details] --> Node3[Assign tasks]
+
+end
+```
+
 # Schedule the work
 
 #### Enze Peng
