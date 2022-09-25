@@ -40,4 +40,8 @@
 
 * link:
 
+   <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/20>
+
+   <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/19>
+  ![image](uploads/2decf7665f7cd985c3406d9e82b4b242/1.png)
   ![image](uploads/baf840cc675cb99937f5d96934d0e072/image.png)
