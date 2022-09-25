@@ -29,8 +29,9 @@ https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/4
 
 #### Sijie Jack Fan
 
+* link: 
 
-* link: <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/15>
+  <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/15>
 
   <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/14>
 
@@ -41,14 +42,14 @@ https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/4
 
   ##### **<span dir="">Xuan Ngo</span>**
 
-
 * link:
 
   <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/21>
 
   <https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/issues/22>
 
-  ![image](uploads/ed5c66891c3f2a2c686cb90c26795376/image.png)![image](uploads/139e074796951916a0ca6ef7b0678bd2/image.png)
+  ![image](uploads/ed5c66891c3f2a2c686cb90c26795376/image.png)
+![image](uploads/139e074796951916a0ca6ef7b0678bd2/image.png)
 
 #### Qiuyu Chen
 
