@@ -1,6 +1,6 @@
 ### [Home](home)
 ### [Project Summary](project summary)
-- [Features and Descirption](Features, Game Engine, Tests, and Game Description)
+- [Features and Description](Features, Game Engine, Tests, and Game Description)
 - [Things we planned to do but not implemented](things we planned to do but not implemented)
 - [Additional Notes](additional notes)
 ### [Planning and Scheduling](planning and scheduling)
