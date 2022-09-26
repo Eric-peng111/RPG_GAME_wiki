@@ -22,3 +22,4 @@ Collingbourne, H. The Little Book Of Adventure Game Programming. Retrieved 26 Se
 
 **Game Description**
 
+AdventureGame is a single-player text RPG java game where you will embark on a journey as a hero. Experience different environments in your journey, various enemies, different ways to face your adversaries, and exciting shop mechanics where you can make your hero stronger. Begin your journey now! 
