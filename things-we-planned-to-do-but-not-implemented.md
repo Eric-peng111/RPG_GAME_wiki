@@ -1,4 +1,3 @@
-* Saving and loading the game -- After ending a game process, restart the same game process.
 * Multiple players -- Multiple players playing at the same time.
 * GUI -- A more elegant interface for players to use.
 * Visible character data -- Different representations of data in the form of graphs(eg. Bar chart for HP)
