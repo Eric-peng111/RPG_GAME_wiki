@@ -22,3 +22,6 @@ When you enter any room other than the Town, you would encounter a random enemy.
 
 By entering numbers 1, 2, 3, you may choose to attack the enemy, use an item in your bag, or run away from the fight. After the enemy is defeated, you would be able to gain exp and gold. So defeat as many enemies as you can and become stronger!
 
+# Finishing the game
+
+In the game, your ultimate goal is to defeat the evil magician, "VOID". He is very mysterious, no one knows exactly where he is, yet there are rumors saying that he lives deep within the dungeon. After you find and defeat him, the game will be considered ended. However, you would still be free to go around and explore more in the game if you wish. 
