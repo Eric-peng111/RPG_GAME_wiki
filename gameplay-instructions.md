@@ -13,3 +13,12 @@ After you entered the game, you would be able to move around and explore the gam
 ![image](uploads/1aecfffd28dd29fe1e1f3eea90762625/image.png)
 
 By default, every time you enter the game, you would start in the Town. The commands "n, s, w, e, d" corresponds to north, south, west, east and down directions. The "Down" direction is only available in the Town, and it would allow you to enter the Dungeon, yet enemies here are also more powerful. By entering theses commands, you may move around in the game as you wish. Note: Special things might happen after you enter the Dungeon! 
+
+# Fighting in the game
+
+When you enter any room other than the Town, you would encounter a random enemy. By entering the "fight" command, you can choose to fight with the enemy. 
+
+![image](uploads/02699cd363b571b7cf3ae316658cc0c6/image.png)
+
+By entering numbers 1, 2, 3, you may choose to attack the enemy, use an item in your bag, or run away from the fight. After the enemy is defeated, you would be able to gain exp and gold. So defeat as many enemies as you can and become stronger!
+
