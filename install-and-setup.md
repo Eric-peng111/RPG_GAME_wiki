@@ -39,6 +39,6 @@ Due to json file path name incompatible and lack of time to fix it, save/load fu
 
 but it would be all good to use save/load function in cloned project running in IDE (IntelliJ)
 
-![Screen_Shot_2022-10-02_at_23.40.13](uploads/34b70ea30914875ef760f25141c499a0/Screen_Shot_2022-10-02_at_23.40.13.png)
+![Screen_Shot_2022-10-02_at_23.45.03](uploads/461c243b75f0d7da9ec13b528b9a68f4/Screen_Shot_2022-10-02_at_23.45.03.png)
 
 but u still can fix it by change the json file path manually
