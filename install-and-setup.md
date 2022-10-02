@@ -21,7 +21,7 @@ After the repo is cloned, selected the file src/game/AdventureGame and run:
 
 Then, you would be able to start the game in terminal.
 
-**-option2: user jar.file**
+**- option2: user jar.file**
 
 link: https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/blob/main/workshop-10-group-1.jar
 
