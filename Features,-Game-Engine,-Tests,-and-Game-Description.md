@@ -9,6 +9,7 @@
 * Weapon
 * Item System
 * Inventory System
+* Treasure System
 
 **Game Engine**
 
