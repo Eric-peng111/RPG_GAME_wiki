@@ -4,7 +4,8 @@ To install the game, you must first have an IDE that can run Java code in termin
 
 # Install Instruction
 
-- option 1: fork and clone the project to your local
+**- option 1: fork and clone the project to your local**
+
 
 First, you would need to go to the gitlab repo, as in the link below:
 
@@ -20,7 +21,7 @@ After the repo is cloned, selected the file src/game/AdventureGame and run:
 
 Then, you would be able to start the game in terminal.
 
--option2: user jar.file
+**-option2: user jar.file**
 
 link: https://gitlab.cecs.anu.edu.au/u7341252/workshop-10-group-1/-/blob/main/workshop-10-group-1.jar
 
