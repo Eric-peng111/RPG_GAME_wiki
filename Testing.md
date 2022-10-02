@@ -13,3 +13,4 @@ For methods that directly return a certain value, we set up test cases of differ
 For methods that require user input, we use InputStream to setup possible inputs that the user might enter. Then, based on different inputs, we generate different test cases to handle different results. For example, in this test below:
 
 ![image](uploads/4d330107d4f03eb58fbc34e36ee496ed/image.png)
+
