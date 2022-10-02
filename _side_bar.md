@@ -14,3 +14,4 @@
 - [Install And Setup](install and setup)
 - [Gameplay Instructions](gameplay instructions)
 - [Testing](testing)
+- [License](license)
