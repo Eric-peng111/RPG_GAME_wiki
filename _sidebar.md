@@ -11,4 +11,5 @@
 - [Meeting 2022 9 23](meeting 3)
 ### [Instructions](instructions)
 - [Install And Setup](install and setup)
+- [Gameplay Instructions](gameplay instructions)
 - [Testing](testing)
